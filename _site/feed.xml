@@ -3,10 +3,10 @@
   <channel>
     <title>Andrei Rosu</title>
     <description></description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Jan 2019 15:01:32 +0200</pubDate>
-    <lastBuildDate>Tue, 08 Jan 2019 15:01:32 +0200</lastBuildDate>
+    <link>http://andreirosu.online/</link>
+    <atom:link href="http://andreirosu.online/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 08 Jan 2019 15:13:56 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Jan 2019 15:13:56 +0200</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -54,8 +54,8 @@ This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&q
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sun, 30 Nov 2014 16:34:25 +0200</pubDate>
-        <link>http://localhost:4000/mediator/feature/2014/11/30/mediator_features.html</link>
-        <guid isPermaLink="true">http://localhost:4000/mediator/feature/2014/11/30/mediator_features.html</guid>
+        <link>http://andreirosu.online/mediator/feature/2014/11/30/mediator_features.html</link>
+        <guid isPermaLink="true">http://andreirosu.online/mediator/feature/2014/11/30/mediator_features.html</guid>
         
         <category>featured</category>
         
@@ -92,8 +92,8 @@ This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&q
 
 </description>
         <pubDate>Fri, 29 Aug 2014 17:34:25 +0300</pubDate>
-        <link>http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
+        <link>http://andreirosu.online/jekyll/update/2014/08/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://andreirosu.online/jekyll/update/2014/08/29/welcome-to-jekyll.html</guid>
         
         <category>featured</category>
         
